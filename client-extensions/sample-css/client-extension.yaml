@@ -1,4 +1,4 @@
 sample-css:
     name: Sample CSS
     type: globalCSS
-    url: global.css
+    url: styles.css
