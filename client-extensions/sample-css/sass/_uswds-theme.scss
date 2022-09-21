@@ -7,9 +7,6 @@ in the form $setting: value,
 ----------------------------------------
 */
 
-//
-//  @use "uswds-core" with (
-//    $setting: value,
-//    $setting: value
-//  );
-//
+@use "uswds-core" with (
+	$theme-button-border-radius: 25em
+);
